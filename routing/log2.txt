@@ -1,0 +1,5 @@
+ [*] Waiting for messages. To exit press CTRL+C
+ [x] Received run run
+ [x] Received warning
+ [x] Received wdawd
+ [x] Received wqeqwe
